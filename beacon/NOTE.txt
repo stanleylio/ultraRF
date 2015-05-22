@@ -1,0 +1,3 @@
+Upon receiving an 'a' from the USB, send an 'a' via nRF24L01+ and one ultrasonic pulse via the ultrasonic sensor.
+
+Stanley Lio, January 2015 at University of Southern California

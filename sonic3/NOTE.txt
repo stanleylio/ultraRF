@@ -1,0 +1,3 @@
+Sample ADC (ultrasonic analog envelope output) upon reception of 'a' from nRF24L01+
+
+Stanley Lio, January 2015 at University of Southern California
